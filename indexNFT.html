@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-Control" content="no-cache" />
+  <script src="https://cdn.jsdelivr.net/npm/ethers@6.8.1/dist/ethers.umd.min.js"></script>
+  <style> 
+    #map { position: absolute; top: 0; bottom: 0; left: 0; right: 0; }
+  </style>
+  <title>Land Certificates Map</title>
+</head>
+<body>
+  <div>
+    <div id="loading" style="position: fixed; top: 10px; right: 10px; background: white; padding: 5px 10px; border: 1px solid gray; z-index: 1000;">
+      Loading data from blockchain...
+    </div>
+    <div id="map"></div>
+  </div>
+
+  <script>
+    const map = L.map('map', {
+      minZoom: 11,
+      maxZoom: 17
+    }).setView([34.74, 11.25], 15);
+
+    L.tileLayer('https://api.maptiler.com/maps/openstreetmap/{z}/{x}/{y}.jpg?key=R757bcg4UgeeYzRVGpXe', {
+      attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>',
+      tileSize: 512,
+      zoomOffset: -1
+    }).addTo(map);
+
+    const abi = [
+      "function getCertificate(string terrainId) view returns (string, int, int, int, string, string, string, bool, uint256)",
+      "function getTerrainIds() view returns (string[])"
+    ];
+
+    const contractAddress = "0xfbed63872f061db1dcfa16598094cb5723fcfa77";
+    const provider = new ethers.JsonRpcProvider("https://eth-sepolia.g.alchemy.com/v2/C4qLBA5kLdTDy1EnXUBkx");
+    const contract = new ethers.Contract(contractAddress, abi, provider);
+
+    async function loadFromContract() {
+      try {
+        console.log("⛓️ Loading data from blockchain...");
+        const terrainIds = await contract.getTerrainIds();
+
+        for (const id of terrainIds) {
+          const [
+            terrainId,
+            lat,
+            lon,
+            ndvi,
+            status,
+            date,
+            cidPdf,
+            mintedNFT,
+            tokenId
+          ] = await contract.getCertificate(id);
+
+          const latDec = Number(lat) / 1e6;
+          const lonDec = Number(lon) / 1e6;
+          const ndviDec = Number(ndvi) / 1e4;
+
+          let popup = `
+            <div style="font-size: 16px; font-weight: bold;">
+              Terrain ID: ${terrainId}<br>
+              NDVI: ${ndviDec}<br>
+              Status: ${status}<br>
+              Date: ${date}<br>
+          `;
+
+          if (status.toLowerCase() === "suitable") {
+            const ipfsLink = `https://gateway.pinata.cloud/ipfs/${cidPdf || "QmDummyCid"}`;
+            const tokenLink = `https://sepolia.etherscan.io/token/${contractAddress}?a=${tokenId || 0}`;
+
+            popup += `
+              <br><a href="${ipfsLink}" target="_blank" style="display:inline-block;margin-top:8px;padding:6px 12px;background:#4CAF50;color:white;text-decoration:none;border-radius:4px;">
+                📄 View Certificate
+              </a>
+              <br><a href="${tokenLink}" target="_blank" style="display:inline-block;margin-top:8px;padding:6px 12px;background:#2196F3;color:white;text-decoration:none;border-radius:4px;">
+                🧾 View NFT (Token ID: ${tokenId || 0})
+              </a>
+            `;
+          }
+
+          popup += `</div>`;
+
+          L.marker([latDec, lonDec])
+            .addTo(map)
+            .bindPopup(popup);
+        }
+
+        document.getElementById("loading").style.display = "none";
+
+      } catch (err) {
+        console.error("❌ Error loading data from contract:", err);
+      }
+    }
+
+    loadFromContract();
+  </script>
+</body>
+</html>

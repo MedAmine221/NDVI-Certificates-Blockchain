@@ -1,0 +1,10 @@
+{
+    "terrain_id": "T001",
+    "mean_ndvi": 0.0798,
+    "status": "Not Suitable",
+    "date": "2025-07-26",
+    "center_lat": 34.828475,
+    "center_lon": 11.252435,
+    "row": 0,
+    "col": 39
+}

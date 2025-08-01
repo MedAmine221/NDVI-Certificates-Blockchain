@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <style> #map {position: absolute; top: 0; bottom: 0; left: 0; right: 0;}</style>
+    <title>Document</title>
+</head>
+<body>
+    <div id="map"></div>
+    
+    <script>
+        const map = L.map('map', {
+           minZoom: 11,
+           maxZoom: 17
+        }).setView([34.74, 11.25], 15);
+
+ // Centered on Kerkennah
+
+        L.tileLayer('https://api.maptiler.com/maps/openstreetmap/{z}/{x}/{y}.jpg?key=R757bcg4UgeeYzRVGpXe', {
+            attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>',
+            tileSize: 512,
+            zoomOffset: -1
+        }).addTo(map);
+         
+
+           // Color helper for NDVI status
+    function getColor(ndvi) {
+        if (ndvi > 0.5) return "green";
+        if (ndvi > 0.3) return "orange";
+        return "red";
+    }
+
+    // Load all_certificates.json
+    fetch("all_certificates.json")
+  .then(response => response.json())
+  .then(data => {
+    data.forEach(cert => {
+      const lat = cert.center_lat;
+      const lon = cert.center_lon;
+      const ndvi = cert.mean_ndvi;
+      console.log(lat,lon,ndvi)
+      const popup = `
+       <div style="font-size: 16px; font-weight: bold;">
+       Terrain ID: ${cert.terrain_id}<br>
+        NDVI: ${ndvi}<br>
+        Status: ${cert.status}
+  </div>
+`;
+
+
+     
+
+      // Add standard map marker
+      L.marker([lat, lon])
+        .addTo(map)
+        .bindPopup(popup)
+    });
+  })
+  .catch(err => {
+    console.error("❌ Failed to load NDVI data:", err);
+  });
+
+    </script>
+</body>
+</html>
+

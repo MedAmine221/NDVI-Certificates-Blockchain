@@ -1,0 +1,4582 @@
+[
+    {
+        "terrain_id": "T001",
+        "mean_ndvi": 0.0798,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.828475,
+        "center_lon": 11.252435,
+        "row": 0,
+        "col": 39
+    },
+    {
+        "terrain_id": "T002",
+        "mean_ndvi": 0.03,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.828345,
+        "center_lon": 11.259429,
+        "row": 0,
+        "col": 40
+    },
+    {
+        "terrain_id": "T003",
+        "mean_ndvi": 0.0997,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.827426,
+        "center_lon": 11.308382,
+        "row": 0,
+        "col": 47
+    },
+    {
+        "terrain_id": "T004",
+        "mean_ndvi": 0.0983,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.827293,
+        "center_lon": 11.315375,
+        "row": 0,
+        "col": 48
+    },
+    {
+        "terrain_id": "T005",
+        "mean_ndvi": 0.0931,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.822838,
+        "center_lon": 11.245285,
+        "row": 1,
+        "col": 38
+    },
+    {
+        "terrain_id": "T006",
+        "mean_ndvi": 0.0911,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.822708,
+        "center_lon": 11.252278,
+        "row": 1,
+        "col": 39
+    },
+    {
+        "terrain_id": "T007",
+        "mean_ndvi": 0.0916,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.822579,
+        "center_lon": 11.259271,
+        "row": 1,
+        "col": 40
+    },
+    {
+        "terrain_id": "T008",
+        "mean_ndvi": 0.0851,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.822449,
+        "center_lon": 11.266264,
+        "row": 1,
+        "col": 41
+    },
+    {
+        "terrain_id": "T009",
+        "mean_ndvi": 0.1094,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.821659,
+        "center_lon": 11.308221,
+        "row": 1,
+        "col": 47
+    },
+    {
+        "terrain_id": "T010",
+        "mean_ndvi": 0.0944,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.821526,
+        "center_lon": 11.315214,
+        "row": 1,
+        "col": 48
+    },
+    {
+        "terrain_id": "T011",
+        "mean_ndvi": 0.0957,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.821393,
+        "center_lon": 11.322206,
+        "row": 1,
+        "col": 49
+    },
+    {
+        "terrain_id": "T012",
+        "mean_ndvi": 0.0969,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.817071,
+        "center_lon": 11.245128,
+        "row": 2,
+        "col": 38
+    },
+    {
+        "terrain_id": "T013",
+        "mean_ndvi": 0.0934,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.816942,
+        "center_lon": 11.252121,
+        "row": 2,
+        "col": 39
+    },
+    {
+        "terrain_id": "T014",
+        "mean_ndvi": 0.0953,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.816812,
+        "center_lon": 11.259113,
+        "row": 2,
+        "col": 40
+    },
+    {
+        "terrain_id": "T015",
+        "mean_ndvi": 0.1116,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.816682,
+        "center_lon": 11.266106,
+        "row": 2,
+        "col": 41
+    },
+    {
+        "terrain_id": "T016",
+        "mean_ndvi": 0.0931,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.81642,
+        "center_lon": 11.280091,
+        "row": 2,
+        "col": 43
+    },
+    {
+        "terrain_id": "T017",
+        "mean_ndvi": 0.094,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.816289,
+        "center_lon": 11.287083,
+        "row": 2,
+        "col": 44
+    },
+    {
+        "terrain_id": "T018",
+        "mean_ndvi": 0.128,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.81576,
+        "center_lon": 11.315052,
+        "row": 2,
+        "col": 48
+    },
+    {
+        "terrain_id": "T019",
+        "mean_ndvi": 0.1024,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.815627,
+        "center_lon": 11.322045,
+        "row": 2,
+        "col": 49
+    },
+    {
+        "terrain_id": "T020",
+        "mean_ndvi": 0.1254,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.815493,
+        "center_lon": 11.329037,
+        "row": 2,
+        "col": 50
+    },
+    {
+        "terrain_id": "T021",
+        "mean_ndvi": 0.1134,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.811175,
+        "center_lon": 11.251964,
+        "row": 3,
+        "col": 39
+    },
+    {
+        "terrain_id": "T022",
+        "mean_ndvi": 0.0934,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.811045,
+        "center_lon": 11.258956,
+        "row": 3,
+        "col": 40
+    },
+    {
+        "terrain_id": "T023",
+        "mean_ndvi": 0.1014,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.810915,
+        "center_lon": 11.265948,
+        "row": 3,
+        "col": 41
+    },
+    {
+        "terrain_id": "T024",
+        "mean_ndvi": 0.166,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.810784,
+        "center_lon": 11.27294,
+        "row": 3,
+        "col": 42
+    },
+    {
+        "terrain_id": "T025",
+        "mean_ndvi": 0.0986,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.810654,
+        "center_lon": 11.279932,
+        "row": 3,
+        "col": 43
+    },
+    {
+        "terrain_id": "T026",
+        "mean_ndvi": 0.087,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.810522,
+        "center_lon": 11.286924,
+        "row": 3,
+        "col": 44
+    },
+    {
+        "terrain_id": "T027",
+        "mean_ndvi": 0.0948,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.810391,
+        "center_lon": 11.293916,
+        "row": 3,
+        "col": 45
+    },
+    {
+        "terrain_id": "T028",
+        "mean_ndvi": 0.0936,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.810259,
+        "center_lon": 11.300908,
+        "row": 3,
+        "col": 46
+    },
+    {
+        "terrain_id": "T029",
+        "mean_ndvi": 0.1059,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.805537,
+        "center_lon": 11.244815,
+        "row": 4,
+        "col": 38
+    },
+    {
+        "terrain_id": "T030",
+        "mean_ndvi": 0.155,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.805408,
+        "center_lon": 11.251807,
+        "row": 4,
+        "col": 39
+    },
+    {
+        "terrain_id": "T031",
+        "mean_ndvi": 0.071,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.805278,
+        "center_lon": 11.258799,
+        "row": 4,
+        "col": 40
+    },
+    {
+        "terrain_id": "T032",
+        "mean_ndvi": 0.0773,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.805148,
+        "center_lon": 11.26579,
+        "row": 4,
+        "col": 41
+    },
+    {
+        "terrain_id": "T033",
+        "mean_ndvi": 0.0923,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.805018,
+        "center_lon": 11.272782,
+        "row": 4,
+        "col": 42
+    },
+    {
+        "terrain_id": "T034",
+        "mean_ndvi": 0.1141,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.804887,
+        "center_lon": 11.279773,
+        "row": 4,
+        "col": 43
+    },
+    {
+        "terrain_id": "T035",
+        "mean_ndvi": 0.1063,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.804756,
+        "center_lon": 11.286764,
+        "row": 4,
+        "col": 44
+    },
+    {
+        "terrain_id": "T036",
+        "mean_ndvi": 0.0751,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.804624,
+        "center_lon": 11.293756,
+        "row": 4,
+        "col": 45
+    },
+    {
+        "terrain_id": "T037",
+        "mean_ndvi": 0.092,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.804492,
+        "center_lon": 11.300747,
+        "row": 4,
+        "col": 46
+    },
+    {
+        "terrain_id": "T038",
+        "mean_ndvi": 0.1021,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.804359,
+        "center_lon": 11.307738,
+        "row": 4,
+        "col": 47
+    },
+    {
+        "terrain_id": "T039",
+        "mean_ndvi": 0.1628,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.804227,
+        "center_lon": 11.31473,
+        "row": 4,
+        "col": 48
+    },
+    {
+        "terrain_id": "T040",
+        "mean_ndvi": 0.097,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.800283,
+        "center_lon": 11.216694,
+        "row": 5,
+        "col": 34
+    },
+    {
+        "terrain_id": "T041",
+        "mean_ndvi": 0.0991,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.800155,
+        "center_lon": 11.223685,
+        "row": 5,
+        "col": 35
+    },
+    {
+        "terrain_id": "T042",
+        "mean_ndvi": 0.0933,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.79977,
+        "center_lon": 11.244659,
+        "row": 5,
+        "col": 38
+    },
+    {
+        "terrain_id": "T043",
+        "mean_ndvi": 0.0873,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.799641,
+        "center_lon": 11.25165,
+        "row": 5,
+        "col": 39
+    },
+    {
+        "terrain_id": "T044",
+        "mean_ndvi": 0.0635,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.799511,
+        "center_lon": 11.258641,
+        "row": 5,
+        "col": 40
+    },
+    {
+        "terrain_id": "T045",
+        "mean_ndvi": 0.0525,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.799381,
+        "center_lon": 11.265632,
+        "row": 5,
+        "col": 41
+    },
+    {
+        "terrain_id": "T046",
+        "mean_ndvi": 0.0684,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.799251,
+        "center_lon": 11.272623,
+        "row": 5,
+        "col": 42
+    },
+    {
+        "terrain_id": "T047",
+        "mean_ndvi": 0.0935,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.79912,
+        "center_lon": 11.279614,
+        "row": 5,
+        "col": 43
+    },
+    {
+        "terrain_id": "T048",
+        "mean_ndvi": 0.1102,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.798989,
+        "center_lon": 11.286605,
+        "row": 5,
+        "col": 44
+    },
+    {
+        "terrain_id": "T049",
+        "mean_ndvi": 0.1522,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.79846,
+        "center_lon": 11.314568,
+        "row": 5,
+        "col": 48
+    },
+    {
+        "terrain_id": "T050",
+        "mean_ndvi": 0.0931,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.794388,
+        "center_lon": 11.22353,
+        "row": 6,
+        "col": 35
+    },
+    {
+        "terrain_id": "T051",
+        "mean_ndvi": 0.0957,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.79426,
+        "center_lon": 11.230521,
+        "row": 6,
+        "col": 36
+    },
+    {
+        "terrain_id": "T052",
+        "mean_ndvi": 0.0939,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.793874,
+        "center_lon": 11.251493,
+        "row": 6,
+        "col": 39
+    },
+    {
+        "terrain_id": "T053",
+        "mean_ndvi": 0.0732,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.793744,
+        "center_lon": 11.258484,
+        "row": 6,
+        "col": 40
+    },
+    {
+        "terrain_id": "T054",
+        "mean_ndvi": 0.0782,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.793614,
+        "center_lon": 11.265474,
+        "row": 6,
+        "col": 41
+    },
+    {
+        "terrain_id": "T055",
+        "mean_ndvi": 0.0588,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.793484,
+        "center_lon": 11.272465,
+        "row": 6,
+        "col": 42
+    },
+    {
+        "terrain_id": "T056",
+        "mean_ndvi": 0.097,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.793353,
+        "center_lon": 11.279455,
+        "row": 6,
+        "col": 43
+    },
+    {
+        "terrain_id": "T057",
+        "mean_ndvi": 0.1093,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.793222,
+        "center_lon": 11.286446,
+        "row": 6,
+        "col": 44
+    },
+    {
+        "terrain_id": "T058",
+        "mean_ndvi": 0.1066,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.793091,
+        "center_lon": 11.293436,
+        "row": 6,
+        "col": 45
+    },
+    {
+        "terrain_id": "T059",
+        "mean_ndvi": 0.0846,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.788493,
+        "center_lon": 11.230366,
+        "row": 7,
+        "col": 36
+    },
+    {
+        "terrain_id": "T060",
+        "mean_ndvi": 0.1389,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.788365,
+        "center_lon": 11.237356,
+        "row": 7,
+        "col": 37
+    },
+    {
+        "terrain_id": "T061",
+        "mean_ndvi": 0.1017,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.788236,
+        "center_lon": 11.244346,
+        "row": 7,
+        "col": 38
+    },
+    {
+        "terrain_id": "T062",
+        "mean_ndvi": 0.1025,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.788107,
+        "center_lon": 11.251336,
+        "row": 7,
+        "col": 39
+    },
+    {
+        "terrain_id": "T063",
+        "mean_ndvi": 0.1006,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.787978,
+        "center_lon": 11.258326,
+        "row": 7,
+        "col": 40
+    },
+    {
+        "terrain_id": "T064",
+        "mean_ndvi": 0.075,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.787848,
+        "center_lon": 11.265317,
+        "row": 7,
+        "col": 41
+    },
+    {
+        "terrain_id": "T065",
+        "mean_ndvi": 0.0788,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.787717,
+        "center_lon": 11.272307,
+        "row": 7,
+        "col": 42
+    },
+    {
+        "terrain_id": "T066",
+        "mean_ndvi": 0.1184,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.787587,
+        "center_lon": 11.279297,
+        "row": 7,
+        "col": 43
+    },
+    {
+        "terrain_id": "T067",
+        "mean_ndvi": 0.1113,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.787455,
+        "center_lon": 11.286287,
+        "row": 7,
+        "col": 44
+    },
+    {
+        "terrain_id": "T068",
+        "mean_ndvi": 0.1003,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.782982,
+        "center_lon": 11.216231,
+        "row": 8,
+        "col": 34
+    },
+    {
+        "terrain_id": "T069",
+        "mean_ndvi": 0.1004,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.782854,
+        "center_lon": 11.22322,
+        "row": 8,
+        "col": 35
+    },
+    {
+        "terrain_id": "T070",
+        "mean_ndvi": 0.1051,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.782726,
+        "center_lon": 11.23021,
+        "row": 8,
+        "col": 36
+    },
+    {
+        "terrain_id": "T071",
+        "mean_ndvi": 0.1177,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.782598,
+        "center_lon": 11.2372,
+        "row": 8,
+        "col": 37
+    },
+    {
+        "terrain_id": "T072",
+        "mean_ndvi": 0.0915,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.782469,
+        "center_lon": 11.24419,
+        "row": 8,
+        "col": 38
+    },
+    {
+        "terrain_id": "T073",
+        "mean_ndvi": 0.0975,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.78234,
+        "center_lon": 11.25118,
+        "row": 8,
+        "col": 39
+    },
+    {
+        "terrain_id": "T074",
+        "mean_ndvi": 0.0629,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.782211,
+        "center_lon": 11.258169,
+        "row": 8,
+        "col": 40
+    },
+    {
+        "terrain_id": "T075",
+        "mean_ndvi": 0.0789,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.782081,
+        "center_lon": 11.265159,
+        "row": 8,
+        "col": 41
+    },
+    {
+        "terrain_id": "T076",
+        "mean_ndvi": 0.1172,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.78195,
+        "center_lon": 11.272148,
+        "row": 8,
+        "col": 42
+    },
+    {
+        "terrain_id": "T077",
+        "mean_ndvi": 0.134,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.78182,
+        "center_lon": 11.279138,
+        "row": 8,
+        "col": 43
+    },
+    {
+        "terrain_id": "T078",
+        "mean_ndvi": 0.0889,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.781689,
+        "center_lon": 11.286127,
+        "row": 8,
+        "col": 44
+    },
+    {
+        "terrain_id": "T079",
+        "mean_ndvi": 0.0969,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.781557,
+        "center_lon": 11.293117,
+        "row": 8,
+        "col": 45
+    },
+    {
+        "terrain_id": "T080",
+        "mean_ndvi": 0.1024,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.777087,
+        "center_lon": 11.223066,
+        "row": 9,
+        "col": 35
+    },
+    {
+        "terrain_id": "T081",
+        "mean_ndvi": 0.091,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.776959,
+        "center_lon": 11.230055,
+        "row": 9,
+        "col": 36
+    },
+    {
+        "terrain_id": "T082",
+        "mean_ndvi": 0.1017,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.776831,
+        "center_lon": 11.237044,
+        "row": 9,
+        "col": 37
+    },
+    {
+        "terrain_id": "T083",
+        "mean_ndvi": 0.071,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.776702,
+        "center_lon": 11.244034,
+        "row": 9,
+        "col": 38
+    },
+    {
+        "terrain_id": "T084",
+        "mean_ndvi": 0.0996,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.776573,
+        "center_lon": 11.251023,
+        "row": 9,
+        "col": 39
+    },
+    {
+        "terrain_id": "T085",
+        "mean_ndvi": 0.0889,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.776444,
+        "center_lon": 11.258012,
+        "row": 9,
+        "col": 40
+    },
+    {
+        "terrain_id": "T086",
+        "mean_ndvi": 0.0569,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.776314,
+        "center_lon": 11.265001,
+        "row": 9,
+        "col": 41
+    },
+    {
+        "terrain_id": "T087",
+        "mean_ndvi": 0.0912,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.776184,
+        "center_lon": 11.27199,
+        "row": 9,
+        "col": 42
+    },
+    {
+        "terrain_id": "T088",
+        "mean_ndvi": 0.0974,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.776053,
+        "center_lon": 11.278979,
+        "row": 9,
+        "col": 43
+    },
+    {
+        "terrain_id": "T089",
+        "mean_ndvi": 0.0965,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.775922,
+        "center_lon": 11.285968,
+        "row": 9,
+        "col": 44
+    },
+    {
+        "terrain_id": "T090",
+        "mean_ndvi": 0.1184,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.77579,
+        "center_lon": 11.292957,
+        "row": 9,
+        "col": 45
+    },
+    {
+        "terrain_id": "T091",
+        "mean_ndvi": 0.1157,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.775658,
+        "center_lon": 11.299946,
+        "row": 9,
+        "col": 46
+    },
+    {
+        "terrain_id": "T092",
+        "mean_ndvi": 0.0835,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.77132,
+        "center_lon": 11.222911,
+        "row": 10,
+        "col": 35
+    },
+    {
+        "terrain_id": "T093",
+        "mean_ndvi": 0.089,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.771192,
+        "center_lon": 11.2299,
+        "row": 10,
+        "col": 36
+    },
+    {
+        "terrain_id": "T094",
+        "mean_ndvi": 0.101,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.771064,
+        "center_lon": 11.236889,
+        "row": 10,
+        "col": 37
+    },
+    {
+        "terrain_id": "T095",
+        "mean_ndvi": 0.0804,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.770935,
+        "center_lon": 11.243877,
+        "row": 10,
+        "col": 38
+    },
+    {
+        "terrain_id": "T096",
+        "mean_ndvi": 0.0918,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.770806,
+        "center_lon": 11.250866,
+        "row": 10,
+        "col": 39
+    },
+    {
+        "terrain_id": "T097",
+        "mean_ndvi": 0.0941,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.770677,
+        "center_lon": 11.257855,
+        "row": 10,
+        "col": 40
+    },
+    {
+        "terrain_id": "T098",
+        "mean_ndvi": 0.0872,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.770547,
+        "center_lon": 11.264843,
+        "row": 10,
+        "col": 41
+    },
+    {
+        "terrain_id": "T099",
+        "mean_ndvi": 0.0704,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.770417,
+        "center_lon": 11.271832,
+        "row": 10,
+        "col": 42
+    },
+    {
+        "terrain_id": "T100",
+        "mean_ndvi": 0.1053,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.770286,
+        "center_lon": 11.278821,
+        "row": 10,
+        "col": 43
+    },
+    {
+        "terrain_id": "T101",
+        "mean_ndvi": 0.1303,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.770024,
+        "center_lon": 11.292798,
+        "row": 10,
+        "col": 45
+    },
+    {
+        "terrain_id": "T102",
+        "mean_ndvi": 0.116,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.769892,
+        "center_lon": 11.299786,
+        "row": 10,
+        "col": 46
+    },
+    {
+        "terrain_id": "T103",
+        "mean_ndvi": 0.0931,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.765425,
+        "center_lon": 11.229745,
+        "row": 11,
+        "col": 36
+    },
+    {
+        "terrain_id": "T104",
+        "mean_ndvi": 0.1025,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.765297,
+        "center_lon": 11.236733,
+        "row": 11,
+        "col": 37
+    },
+    {
+        "terrain_id": "T105",
+        "mean_ndvi": 0.0949,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.765169,
+        "center_lon": 11.243721,
+        "row": 11,
+        "col": 38
+    },
+    {
+        "terrain_id": "T106",
+        "mean_ndvi": 0.0819,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.765039,
+        "center_lon": 11.25071,
+        "row": 11,
+        "col": 39
+    },
+    {
+        "terrain_id": "T107",
+        "mean_ndvi": 0.0926,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.76491,
+        "center_lon": 11.257698,
+        "row": 11,
+        "col": 40
+    },
+    {
+        "terrain_id": "T108",
+        "mean_ndvi": 0.0935,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.76478,
+        "center_lon": 11.264686,
+        "row": 11,
+        "col": 41
+    },
+    {
+        "terrain_id": "T109",
+        "mean_ndvi": 0.0923,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.76465,
+        "center_lon": 11.271674,
+        "row": 11,
+        "col": 42
+    },
+    {
+        "terrain_id": "T110",
+        "mean_ndvi": 0.0909,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.764519,
+        "center_lon": 11.278662,
+        "row": 11,
+        "col": 43
+    },
+    {
+        "terrain_id": "T111",
+        "mean_ndvi": 0.0999,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.764125,
+        "center_lon": 11.299626,
+        "row": 11,
+        "col": 46
+    },
+    {
+        "terrain_id": "T112",
+        "mean_ndvi": 0.1285,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.763993,
+        "center_lon": 11.306614,
+        "row": 11,
+        "col": 47
+    },
+    {
+        "terrain_id": "T113",
+        "mean_ndvi": 0.1012,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.76067,
+        "center_lon": 11.173685,
+        "row": 12,
+        "col": 28
+    },
+    {
+        "terrain_id": "T114",
+        "mean_ndvi": 0.096,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.760545,
+        "center_lon": 11.180673,
+        "row": 12,
+        "col": 29
+    },
+    {
+        "terrain_id": "T115",
+        "mean_ndvi": 0.1068,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.759658,
+        "center_lon": 11.22959,
+        "row": 12,
+        "col": 36
+    },
+    {
+        "terrain_id": "T116",
+        "mean_ndvi": 0.101,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.75953,
+        "center_lon": 11.236577,
+        "row": 12,
+        "col": 37
+    },
+    {
+        "terrain_id": "T117",
+        "mean_ndvi": 0.0959,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.759402,
+        "center_lon": 11.243565,
+        "row": 12,
+        "col": 38
+    },
+    {
+        "terrain_id": "T118",
+        "mean_ndvi": 0.0897,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.759273,
+        "center_lon": 11.250553,
+        "row": 12,
+        "col": 39
+    },
+    {
+        "terrain_id": "T119",
+        "mean_ndvi": 0.0628,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.759143,
+        "center_lon": 11.257541,
+        "row": 12,
+        "col": 40
+    },
+    {
+        "terrain_id": "T120",
+        "mean_ndvi": 0.0918,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.759013,
+        "center_lon": 11.264528,
+        "row": 12,
+        "col": 41
+    },
+    {
+        "terrain_id": "T121",
+        "mean_ndvi": 0.0958,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.758883,
+        "center_lon": 11.271516,
+        "row": 12,
+        "col": 42
+    },
+    {
+        "terrain_id": "T122",
+        "mean_ndvi": 0.0972,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.758753,
+        "center_lon": 11.278504,
+        "row": 12,
+        "col": 43
+    },
+    {
+        "terrain_id": "T123",
+        "mean_ndvi": 0.0971,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.758621,
+        "center_lon": 11.285491,
+        "row": 12,
+        "col": 44
+    },
+    {
+        "terrain_id": "T124",
+        "mean_ndvi": 0.1294,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.758093,
+        "center_lon": 11.313441,
+        "row": 12,
+        "col": 48
+    },
+    {
+        "terrain_id": "T125",
+        "mean_ndvi": 0.0995,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.75796,
+        "center_lon": 11.320428,
+        "row": 12,
+        "col": 49
+    },
+    {
+        "terrain_id": "T126",
+        "mean_ndvi": 0.0954,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.757827,
+        "center_lon": 11.327415,
+        "row": 12,
+        "col": 50
+    },
+    {
+        "terrain_id": "T127",
+        "mean_ndvi": 0.0937,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.757693,
+        "center_lon": 11.334403,
+        "row": 12,
+        "col": 51
+    },
+    {
+        "terrain_id": "T128",
+        "mean_ndvi": 0.0972,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.754902,
+        "center_lon": 11.173534,
+        "row": 13,
+        "col": 28
+    },
+    {
+        "terrain_id": "T129",
+        "mean_ndvi": 0.0994,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.754777,
+        "center_lon": 11.180522,
+        "row": 13,
+        "col": 29
+    },
+    {
+        "terrain_id": "T130",
+        "mean_ndvi": 0.1013,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.753891,
+        "center_lon": 11.229434,
+        "row": 13,
+        "col": 36
+    },
+    {
+        "terrain_id": "T131",
+        "mean_ndvi": 0.0766,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.753763,
+        "center_lon": 11.236422,
+        "row": 13,
+        "col": 37
+    },
+    {
+        "terrain_id": "T132",
+        "mean_ndvi": 0.0888,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.753635,
+        "center_lon": 11.243409,
+        "row": 13,
+        "col": 38
+    },
+    {
+        "terrain_id": "T133",
+        "mean_ndvi": 0.0999,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.753506,
+        "center_lon": 11.250396,
+        "row": 13,
+        "col": 39
+    },
+    {
+        "terrain_id": "T134",
+        "mean_ndvi": 0.0715,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.753376,
+        "center_lon": 11.257384,
+        "row": 13,
+        "col": 40
+    },
+    {
+        "terrain_id": "T135",
+        "mean_ndvi": 0.0659,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.753246,
+        "center_lon": 11.264371,
+        "row": 13,
+        "col": 41
+    },
+    {
+        "terrain_id": "T136",
+        "mean_ndvi": 0.0919,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.753116,
+        "center_lon": 11.271358,
+        "row": 13,
+        "col": 42
+    },
+    {
+        "terrain_id": "T137",
+        "mean_ndvi": 0.0956,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.752986,
+        "center_lon": 11.278345,
+        "row": 13,
+        "col": 43
+    },
+    {
+        "terrain_id": "T138",
+        "mean_ndvi": 0.1009,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.752855,
+        "center_lon": 11.285332,
+        "row": 13,
+        "col": 44
+    },
+    {
+        "terrain_id": "T139",
+        "mean_ndvi": 0.0987,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.752723,
+        "center_lon": 11.292319,
+        "row": 13,
+        "col": 45
+    },
+    {
+        "terrain_id": "T140",
+        "mean_ndvi": 0.1301,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.752592,
+        "center_lon": 11.299306,
+        "row": 13,
+        "col": 46
+    },
+    {
+        "terrain_id": "T141",
+        "mean_ndvi": 0.1326,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.752459,
+        "center_lon": 11.306293,
+        "row": 13,
+        "col": 47
+    },
+    {
+        "terrain_id": "T142",
+        "mean_ndvi": 0.1011,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.752327,
+        "center_lon": 11.31328,
+        "row": 13,
+        "col": 48
+    },
+    {
+        "terrain_id": "T143",
+        "mean_ndvi": 0.0976,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.752194,
+        "center_lon": 11.320267,
+        "row": 13,
+        "col": 49
+    },
+    {
+        "terrain_id": "T144",
+        "mean_ndvi": -0.0226,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.749135,
+        "center_lon": 11.173383,
+        "row": 14,
+        "col": 28
+    },
+    {
+        "terrain_id": "T145",
+        "mean_ndvi": 0.0898,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.74901,
+        "center_lon": 11.18037,
+        "row": 14,
+        "col": 29
+    },
+    {
+        "terrain_id": "T146",
+        "mean_ndvi": 0.1105,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.748885,
+        "center_lon": 11.187357,
+        "row": 14,
+        "col": 30
+    },
+    {
+        "terrain_id": "T147",
+        "mean_ndvi": 0.1024,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.748252,
+        "center_lon": 11.222292,
+        "row": 14,
+        "col": 35
+    },
+    {
+        "terrain_id": "T148",
+        "mean_ndvi": 0.026,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.748124,
+        "center_lon": 11.229279,
+        "row": 14,
+        "col": 36
+    },
+    {
+        "terrain_id": "T149",
+        "mean_ndvi": -0.0613,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.747996,
+        "center_lon": 11.236266,
+        "row": 14,
+        "col": 37
+    },
+    {
+        "terrain_id": "T150",
+        "mean_ndvi": 0.0693,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.747868,
+        "center_lon": 11.243253,
+        "row": 14,
+        "col": 38
+    },
+    {
+        "terrain_id": "T151",
+        "mean_ndvi": 0.0829,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.747739,
+        "center_lon": 11.25024,
+        "row": 14,
+        "col": 39
+    },
+    {
+        "terrain_id": "T152",
+        "mean_ndvi": 0.0688,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.747609,
+        "center_lon": 11.257227,
+        "row": 14,
+        "col": 40
+    },
+    {
+        "terrain_id": "T153",
+        "mean_ndvi": 0.0771,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.74748,
+        "center_lon": 11.264213,
+        "row": 14,
+        "col": 41
+    },
+    {
+        "terrain_id": "T154",
+        "mean_ndvi": 0.0847,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.747349,
+        "center_lon": 11.2712,
+        "row": 14,
+        "col": 42
+    },
+    {
+        "terrain_id": "T155",
+        "mean_ndvi": 0.0879,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.747219,
+        "center_lon": 11.278187,
+        "row": 14,
+        "col": 43
+    },
+    {
+        "terrain_id": "T156",
+        "mean_ndvi": 0.0973,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.747088,
+        "center_lon": 11.285173,
+        "row": 14,
+        "col": 44
+    },
+    {
+        "terrain_id": "T157",
+        "mean_ndvi": 0.0996,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.746957,
+        "center_lon": 11.29216,
+        "row": 14,
+        "col": 45
+    },
+    {
+        "terrain_id": "T158",
+        "mean_ndvi": 0.1146,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.746825,
+        "center_lon": 11.299146,
+        "row": 14,
+        "col": 46
+    },
+    {
+        "terrain_id": "T159",
+        "mean_ndvi": 0.1051,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.746693,
+        "center_lon": 11.306133,
+        "row": 14,
+        "col": 47
+    },
+    {
+        "terrain_id": "T160",
+        "mean_ndvi": 0.1035,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.74656,
+        "center_lon": 11.313119,
+        "row": 14,
+        "col": 48
+    },
+    {
+        "terrain_id": "T161",
+        "mean_ndvi": 0.0929,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.743243,
+        "center_lon": 11.180218,
+        "row": 15,
+        "col": 29
+    },
+    {
+        "terrain_id": "T162",
+        "mean_ndvi": 0.0924,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.743118,
+        "center_lon": 11.187205,
+        "row": 15,
+        "col": 30
+    },
+    {
+        "terrain_id": "T163",
+        "mean_ndvi": 0.1018,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.742992,
+        "center_lon": 11.194192,
+        "row": 15,
+        "col": 31
+    },
+    {
+        "terrain_id": "T164",
+        "mean_ndvi": 0.122,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.742866,
+        "center_lon": 11.201178,
+        "row": 15,
+        "col": 32
+    },
+    {
+        "terrain_id": "T165",
+        "mean_ndvi": 0.1194,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.742739,
+        "center_lon": 11.208165,
+        "row": 15,
+        "col": 33
+    },
+    {
+        "terrain_id": "T166",
+        "mean_ndvi": 0.1014,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.742612,
+        "center_lon": 11.215151,
+        "row": 15,
+        "col": 34
+    },
+    {
+        "terrain_id": "T167",
+        "mean_ndvi": 0.0213,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.742357,
+        "center_lon": 11.229124,
+        "row": 15,
+        "col": 36
+    },
+    {
+        "terrain_id": "T168",
+        "mean_ndvi": -0.125,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.742229,
+        "center_lon": 11.236111,
+        "row": 15,
+        "col": 37
+    },
+    {
+        "terrain_id": "T169",
+        "mean_ndvi": -0.0272,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.742101,
+        "center_lon": 11.243097,
+        "row": 15,
+        "col": 38
+    },
+    {
+        "terrain_id": "T170",
+        "mean_ndvi": 0.056,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.741972,
+        "center_lon": 11.250083,
+        "row": 15,
+        "col": 39
+    },
+    {
+        "terrain_id": "T171",
+        "mean_ndvi": 0.0704,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.741842,
+        "center_lon": 11.25707,
+        "row": 15,
+        "col": 40
+    },
+    {
+        "terrain_id": "T172",
+        "mean_ndvi": 0.0884,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.741713,
+        "center_lon": 11.264056,
+        "row": 15,
+        "col": 41
+    },
+    {
+        "terrain_id": "T173",
+        "mean_ndvi": 0.0918,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.741583,
+        "center_lon": 11.271042,
+        "row": 15,
+        "col": 42
+    },
+    {
+        "terrain_id": "T174",
+        "mean_ndvi": 0.1001,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.741452,
+        "center_lon": 11.278028,
+        "row": 15,
+        "col": 43
+    },
+    {
+        "terrain_id": "T175",
+        "mean_ndvi": 0.0995,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.741321,
+        "center_lon": 11.285014,
+        "row": 15,
+        "col": 44
+    },
+    {
+        "terrain_id": "T176",
+        "mean_ndvi": 0.1183,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.74119,
+        "center_lon": 11.292,
+        "row": 15,
+        "col": 45
+    },
+    {
+        "terrain_id": "T177",
+        "mean_ndvi": 0.1117,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.741058,
+        "center_lon": 11.298986,
+        "row": 15,
+        "col": 46
+    },
+    {
+        "terrain_id": "T178",
+        "mean_ndvi": 0.0932,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.740926,
+        "center_lon": 11.305972,
+        "row": 15,
+        "col": 47
+    },
+    {
+        "terrain_id": "T179",
+        "mean_ndvi": 0.1008,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.737725,
+        "center_lon": 11.166094,
+        "row": 16,
+        "col": 27
+    },
+    {
+        "terrain_id": "T180",
+        "mean_ndvi": 0.1455,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.737601,
+        "center_lon": 11.173081,
+        "row": 16,
+        "col": 28
+    },
+    {
+        "terrain_id": "T181",
+        "mean_ndvi": 0.0758,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.737476,
+        "center_lon": 11.180067,
+        "row": 16,
+        "col": 29
+    },
+    {
+        "terrain_id": "T182",
+        "mean_ndvi": 0.0633,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.737351,
+        "center_lon": 11.187053,
+        "row": 16,
+        "col": 30
+    },
+    {
+        "terrain_id": "T183",
+        "mean_ndvi": 0.0623,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.737225,
+        "center_lon": 11.194039,
+        "row": 16,
+        "col": 31
+    },
+    {
+        "terrain_id": "T184",
+        "mean_ndvi": 0.0796,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.737099,
+        "center_lon": 11.201025,
+        "row": 16,
+        "col": 32
+    },
+    {
+        "terrain_id": "T185",
+        "mean_ndvi": 0.0992,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.736972,
+        "center_lon": 11.208011,
+        "row": 16,
+        "col": 33
+    },
+    {
+        "terrain_id": "T186",
+        "mean_ndvi": 0.088,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.736845,
+        "center_lon": 11.214997,
+        "row": 16,
+        "col": 34
+    },
+    {
+        "terrain_id": "T187",
+        "mean_ndvi": 0.0754,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.736718,
+        "center_lon": 11.221983,
+        "row": 16,
+        "col": 35
+    },
+    {
+        "terrain_id": "T188",
+        "mean_ndvi": -0.0643,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.73659,
+        "center_lon": 11.228969,
+        "row": 16,
+        "col": 36
+    },
+    {
+        "terrain_id": "T189",
+        "mean_ndvi": 0.019,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.736462,
+        "center_lon": 11.235955,
+        "row": 16,
+        "col": 37
+    },
+    {
+        "terrain_id": "T190",
+        "mean_ndvi": -0.1008,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.736334,
+        "center_lon": 11.242941,
+        "row": 16,
+        "col": 38
+    },
+    {
+        "terrain_id": "T191",
+        "mean_ndvi": 0.0162,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.736205,
+        "center_lon": 11.249927,
+        "row": 16,
+        "col": 39
+    },
+    {
+        "terrain_id": "T192",
+        "mean_ndvi": 0.0859,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.736076,
+        "center_lon": 11.256913,
+        "row": 16,
+        "col": 40
+    },
+    {
+        "terrain_id": "T193",
+        "mean_ndvi": 0.0931,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.735946,
+        "center_lon": 11.263899,
+        "row": 16,
+        "col": 41
+    },
+    {
+        "terrain_id": "T194",
+        "mean_ndvi": 0.0986,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.735816,
+        "center_lon": 11.270884,
+        "row": 16,
+        "col": 42
+    },
+    {
+        "terrain_id": "T195",
+        "mean_ndvi": 0.0941,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.735685,
+        "center_lon": 11.27787,
+        "row": 16,
+        "col": 43
+    },
+    {
+        "terrain_id": "T196",
+        "mean_ndvi": 0.0989,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.735554,
+        "center_lon": 11.284855,
+        "row": 16,
+        "col": 44
+    },
+    {
+        "terrain_id": "T197",
+        "mean_ndvi": 0.1024,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.735423,
+        "center_lon": 11.291841,
+        "row": 16,
+        "col": 45
+    },
+    {
+        "terrain_id": "T198",
+        "mean_ndvi": 0.0944,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.735291,
+        "center_lon": 11.298827,
+        "row": 16,
+        "col": 46
+    },
+    {
+        "terrain_id": "T199",
+        "mean_ndvi": 0.0884,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.735159,
+        "center_lon": 11.305812,
+        "row": 16,
+        "col": 47
+    },
+    {
+        "terrain_id": "T200",
+        "mean_ndvi": 0.1044,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.731833,
+        "center_lon": 11.172929,
+        "row": 17,
+        "col": 28
+    },
+    {
+        "terrain_id": "T201",
+        "mean_ndvi": 0.0911,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.731709,
+        "center_lon": 11.179915,
+        "row": 17,
+        "col": 29
+    },
+    {
+        "terrain_id": "T202",
+        "mean_ndvi": 0.064,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.731583,
+        "center_lon": 11.186901,
+        "row": 17,
+        "col": 30
+    },
+    {
+        "terrain_id": "T203",
+        "mean_ndvi": 0.0636,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.731458,
+        "center_lon": 11.193887,
+        "row": 17,
+        "col": 31
+    },
+    {
+        "terrain_id": "T204",
+        "mean_ndvi": 0.0683,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.731332,
+        "center_lon": 11.200872,
+        "row": 17,
+        "col": 32
+    },
+    {
+        "terrain_id": "T205",
+        "mean_ndvi": 0.0821,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.731205,
+        "center_lon": 11.207858,
+        "row": 17,
+        "col": 33
+    },
+    {
+        "terrain_id": "T206",
+        "mean_ndvi": 0.0751,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.731078,
+        "center_lon": 11.214844,
+        "row": 17,
+        "col": 34
+    },
+    {
+        "terrain_id": "T207",
+        "mean_ndvi": 0.079,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.730951,
+        "center_lon": 11.221829,
+        "row": 17,
+        "col": 35
+    },
+    {
+        "terrain_id": "T208",
+        "mean_ndvi": 0.0671,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.730823,
+        "center_lon": 11.228815,
+        "row": 17,
+        "col": 36
+    },
+    {
+        "terrain_id": "T209",
+        "mean_ndvi": -0.0482,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.730695,
+        "center_lon": 11.2358,
+        "row": 17,
+        "col": 37
+    },
+    {
+        "terrain_id": "T210",
+        "mean_ndvi": -0.0319,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.730567,
+        "center_lon": 11.242785,
+        "row": 17,
+        "col": 38
+    },
+    {
+        "terrain_id": "T211",
+        "mean_ndvi": -0.1613,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.730438,
+        "center_lon": 11.249771,
+        "row": 17,
+        "col": 39
+    },
+    {
+        "terrain_id": "T212",
+        "mean_ndvi": 0.079,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.730309,
+        "center_lon": 11.256756,
+        "row": 17,
+        "col": 40
+    },
+    {
+        "terrain_id": "T213",
+        "mean_ndvi": 0.0927,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.730179,
+        "center_lon": 11.263741,
+        "row": 17,
+        "col": 41
+    },
+    {
+        "terrain_id": "T214",
+        "mean_ndvi": 0.0952,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.730049,
+        "center_lon": 11.270726,
+        "row": 17,
+        "col": 42
+    },
+    {
+        "terrain_id": "T215",
+        "mean_ndvi": 0.0936,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.729918,
+        "center_lon": 11.277712,
+        "row": 17,
+        "col": 43
+    },
+    {
+        "terrain_id": "T216",
+        "mean_ndvi": 0.0695,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.729525,
+        "center_lon": 11.298667,
+        "row": 17,
+        "col": 46
+    },
+    {
+        "terrain_id": "T217",
+        "mean_ndvi": 0.1137,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.726191,
+        "center_lon": 11.165793,
+        "row": 18,
+        "col": 27
+    },
+    {
+        "terrain_id": "T218",
+        "mean_ndvi": 0.0941,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.726066,
+        "center_lon": 11.172779,
+        "row": 18,
+        "col": 28
+    },
+    {
+        "terrain_id": "T219",
+        "mean_ndvi": 0.09,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.725941,
+        "center_lon": 11.179764,
+        "row": 18,
+        "col": 29
+    },
+    {
+        "terrain_id": "T220",
+        "mean_ndvi": 0.0838,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.725816,
+        "center_lon": 11.186749,
+        "row": 18,
+        "col": 30
+    },
+    {
+        "terrain_id": "T221",
+        "mean_ndvi": 0.0797,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.72569,
+        "center_lon": 11.193734,
+        "row": 18,
+        "col": 31
+    },
+    {
+        "terrain_id": "T222",
+        "mean_ndvi": 0.0766,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.725564,
+        "center_lon": 11.200719,
+        "row": 18,
+        "col": 32
+    },
+    {
+        "terrain_id": "T223",
+        "mean_ndvi": 0.0986,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.725438,
+        "center_lon": 11.207705,
+        "row": 18,
+        "col": 33
+    },
+    {
+        "terrain_id": "T224",
+        "mean_ndvi": 0.1229,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.725311,
+        "center_lon": 11.21469,
+        "row": 18,
+        "col": 34
+    },
+    {
+        "terrain_id": "T225",
+        "mean_ndvi": 0.0869,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.725184,
+        "center_lon": 11.221675,
+        "row": 18,
+        "col": 35
+    },
+    {
+        "terrain_id": "T226",
+        "mean_ndvi": 0.0922,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.725056,
+        "center_lon": 11.22866,
+        "row": 18,
+        "col": 36
+    },
+    {
+        "terrain_id": "T227",
+        "mean_ndvi": 0.0972,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.724928,
+        "center_lon": 11.235645,
+        "row": 18,
+        "col": 37
+    },
+    {
+        "terrain_id": "T228",
+        "mean_ndvi": 0.0157,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.7248,
+        "center_lon": 11.242629,
+        "row": 18,
+        "col": 38
+    },
+    {
+        "terrain_id": "T229",
+        "mean_ndvi": -0.0082,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.724671,
+        "center_lon": 11.249614,
+        "row": 18,
+        "col": 39
+    },
+    {
+        "terrain_id": "T230",
+        "mean_ndvi": 0.0841,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.724542,
+        "center_lon": 11.256599,
+        "row": 18,
+        "col": 40
+    },
+    {
+        "terrain_id": "T231",
+        "mean_ndvi": 0.088,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.724412,
+        "center_lon": 11.263584,
+        "row": 18,
+        "col": 41
+    },
+    {
+        "terrain_id": "T232",
+        "mean_ndvi": 0.0936,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.724282,
+        "center_lon": 11.270569,
+        "row": 18,
+        "col": 42
+    },
+    {
+        "terrain_id": "T233",
+        "mean_ndvi": -0.0005,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.723758,
+        "center_lon": 11.298507,
+        "row": 18,
+        "col": 46
+    },
+    {
+        "terrain_id": "T234",
+        "mean_ndvi": 0.0999,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.720547,
+        "center_lon": 11.158658,
+        "row": 19,
+        "col": 26
+    },
+    {
+        "terrain_id": "T235",
+        "mean_ndvi": 0.093,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.720423,
+        "center_lon": 11.165643,
+        "row": 19,
+        "col": 27
+    },
+    {
+        "terrain_id": "T236",
+        "mean_ndvi": 0.1013,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.720299,
+        "center_lon": 11.172628,
+        "row": 19,
+        "col": 28
+    },
+    {
+        "terrain_id": "T237",
+        "mean_ndvi": 0.1017,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.720174,
+        "center_lon": 11.179612,
+        "row": 19,
+        "col": 29
+    },
+    {
+        "terrain_id": "T238",
+        "mean_ndvi": 0.1265,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.720049,
+        "center_lon": 11.186597,
+        "row": 19,
+        "col": 30
+    },
+    {
+        "terrain_id": "T239",
+        "mean_ndvi": 0.1352,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.719923,
+        "center_lon": 11.193582,
+        "row": 19,
+        "col": 31
+    },
+    {
+        "terrain_id": "T240",
+        "mean_ndvi": 0.1179,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.719797,
+        "center_lon": 11.200567,
+        "row": 19,
+        "col": 32
+    },
+    {
+        "terrain_id": "T241",
+        "mean_ndvi": 0.1289,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.719671,
+        "center_lon": 11.207551,
+        "row": 19,
+        "col": 33
+    },
+    {
+        "terrain_id": "T242",
+        "mean_ndvi": 0.1417,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.719544,
+        "center_lon": 11.214536,
+        "row": 19,
+        "col": 34
+    },
+    {
+        "terrain_id": "T243",
+        "mean_ndvi": 0.1052,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.719417,
+        "center_lon": 11.22152,
+        "row": 19,
+        "col": 35
+    },
+    {
+        "terrain_id": "T244",
+        "mean_ndvi": 0.1001,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.719289,
+        "center_lon": 11.228505,
+        "row": 19,
+        "col": 36
+    },
+    {
+        "terrain_id": "T245",
+        "mean_ndvi": 0.1123,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.719161,
+        "center_lon": 11.235489,
+        "row": 19,
+        "col": 37
+    },
+    {
+        "terrain_id": "T246",
+        "mean_ndvi": 0.113,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.719033,
+        "center_lon": 11.242474,
+        "row": 19,
+        "col": 38
+    },
+    {
+        "terrain_id": "T247",
+        "mean_ndvi": 0.0952,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.718904,
+        "center_lon": 11.249458,
+        "row": 19,
+        "col": 39
+    },
+    {
+        "terrain_id": "T248",
+        "mean_ndvi": 0.131,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.718645,
+        "center_lon": 11.263427,
+        "row": 19,
+        "col": 41
+    },
+    {
+        "terrain_id": "T249",
+        "mean_ndvi": 0.0938,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.71478,
+        "center_lon": 11.158508,
+        "row": 20,
+        "col": 26
+    },
+    {
+        "terrain_id": "T250",
+        "mean_ndvi": 0.0973,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.714656,
+        "center_lon": 11.165492,
+        "row": 20,
+        "col": 27
+    },
+    {
+        "terrain_id": "T251",
+        "mean_ndvi": 0.1066,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.714532,
+        "center_lon": 11.172477,
+        "row": 20,
+        "col": 28
+    },
+    {
+        "terrain_id": "T252",
+        "mean_ndvi": 0.1219,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.714407,
+        "center_lon": 11.179461,
+        "row": 20,
+        "col": 29
+    },
+    {
+        "terrain_id": "T253",
+        "mean_ndvi": 0.1324,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.714282,
+        "center_lon": 11.186445,
+        "row": 20,
+        "col": 30
+    },
+    {
+        "terrain_id": "T254",
+        "mean_ndvi": 0.1267,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.714156,
+        "center_lon": 11.193429,
+        "row": 20,
+        "col": 31
+    },
+    {
+        "terrain_id": "T255",
+        "mean_ndvi": 0.114,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.71403,
+        "center_lon": 11.200414,
+        "row": 20,
+        "col": 32
+    },
+    {
+        "terrain_id": "T256",
+        "mean_ndvi": 0.1281,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.713904,
+        "center_lon": 11.207398,
+        "row": 20,
+        "col": 33
+    },
+    {
+        "terrain_id": "T257",
+        "mean_ndvi": 0.1126,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.713777,
+        "center_lon": 11.214382,
+        "row": 20,
+        "col": 34
+    },
+    {
+        "terrain_id": "T258",
+        "mean_ndvi": 0.1054,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.71365,
+        "center_lon": 11.221366,
+        "row": 20,
+        "col": 35
+    },
+    {
+        "terrain_id": "T259",
+        "mean_ndvi": 0.1061,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.713522,
+        "center_lon": 11.22835,
+        "row": 20,
+        "col": 36
+    },
+    {
+        "terrain_id": "T260",
+        "mean_ndvi": 0.105,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.713394,
+        "center_lon": 11.235334,
+        "row": 20,
+        "col": 37
+    },
+    {
+        "terrain_id": "T261",
+        "mean_ndvi": 0.1032,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.713266,
+        "center_lon": 11.242318,
+        "row": 20,
+        "col": 38
+    },
+    {
+        "terrain_id": "T262",
+        "mean_ndvi": 0.0903,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.713137,
+        "center_lon": 11.249302,
+        "row": 20,
+        "col": 39
+    },
+    {
+        "terrain_id": "T263",
+        "mean_ndvi": 0.0899,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.709136,
+        "center_lon": 11.151374,
+        "row": 21,
+        "col": 25
+    },
+    {
+        "terrain_id": "T264",
+        "mean_ndvi": 0.097,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.709013,
+        "center_lon": 11.158358,
+        "row": 21,
+        "col": 26
+    },
+    {
+        "terrain_id": "T265",
+        "mean_ndvi": 0.0945,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.708889,
+        "center_lon": 11.165342,
+        "row": 21,
+        "col": 27
+    },
+    {
+        "terrain_id": "T266",
+        "mean_ndvi": 0.1013,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.708764,
+        "center_lon": 11.172326,
+        "row": 21,
+        "col": 28
+    },
+    {
+        "terrain_id": "T267",
+        "mean_ndvi": 0.1103,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.70864,
+        "center_lon": 11.17931,
+        "row": 21,
+        "col": 29
+    },
+    {
+        "terrain_id": "T268",
+        "mean_ndvi": 0.13,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.708514,
+        "center_lon": 11.186293,
+        "row": 21,
+        "col": 30
+    },
+    {
+        "terrain_id": "T269",
+        "mean_ndvi": 0.1238,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.708389,
+        "center_lon": 11.193277,
+        "row": 21,
+        "col": 31
+    },
+    {
+        "terrain_id": "T270",
+        "mean_ndvi": 0.1081,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.708263,
+        "center_lon": 11.200261,
+        "row": 21,
+        "col": 32
+    },
+    {
+        "terrain_id": "T271",
+        "mean_ndvi": 0.1127,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.708137,
+        "center_lon": 11.207245,
+        "row": 21,
+        "col": 33
+    },
+    {
+        "terrain_id": "T272",
+        "mean_ndvi": 0.1215,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.70801,
+        "center_lon": 11.214228,
+        "row": 21,
+        "col": 34
+    },
+    {
+        "terrain_id": "T273",
+        "mean_ndvi": 0.1023,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.707883,
+        "center_lon": 11.221212,
+        "row": 21,
+        "col": 35
+    },
+    {
+        "terrain_id": "T274",
+        "mean_ndvi": 0.1082,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.707755,
+        "center_lon": 11.228195,
+        "row": 21,
+        "col": 36
+    },
+    {
+        "terrain_id": "T275",
+        "mean_ndvi": 0.0975,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.707627,
+        "center_lon": 11.235179,
+        "row": 21,
+        "col": 37
+    },
+    {
+        "terrain_id": "T276",
+        "mean_ndvi": 0.1043,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.703492,
+        "center_lon": 11.144241,
+        "row": 22,
+        "col": 24
+    },
+    {
+        "terrain_id": "T277",
+        "mean_ndvi": 0.1019,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.703369,
+        "center_lon": 11.151225,
+        "row": 22,
+        "col": 25
+    },
+    {
+        "terrain_id": "T278",
+        "mean_ndvi": 0.1009,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.703245,
+        "center_lon": 11.158208,
+        "row": 22,
+        "col": 26
+    },
+    {
+        "terrain_id": "T279",
+        "mean_ndvi": 0.1001,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.703121,
+        "center_lon": 11.165192,
+        "row": 22,
+        "col": 27
+    },
+    {
+        "terrain_id": "T280",
+        "mean_ndvi": 0.1069,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.702997,
+        "center_lon": 11.172175,
+        "row": 22,
+        "col": 28
+    },
+    {
+        "terrain_id": "T281",
+        "mean_ndvi": 0.1136,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.702872,
+        "center_lon": 11.179158,
+        "row": 22,
+        "col": 29
+    },
+    {
+        "terrain_id": "T282",
+        "mean_ndvi": 0.1174,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.702747,
+        "center_lon": 11.186142,
+        "row": 22,
+        "col": 30
+    },
+    {
+        "terrain_id": "T283",
+        "mean_ndvi": 0.1189,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.702622,
+        "center_lon": 11.193125,
+        "row": 22,
+        "col": 31
+    },
+    {
+        "terrain_id": "T284",
+        "mean_ndvi": 0.1089,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.702496,
+        "center_lon": 11.200108,
+        "row": 22,
+        "col": 32
+    },
+    {
+        "terrain_id": "T285",
+        "mean_ndvi": 0.1048,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.702369,
+        "center_lon": 11.207091,
+        "row": 22,
+        "col": 33
+    },
+    {
+        "terrain_id": "T286",
+        "mean_ndvi": 0.1123,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.697847,
+        "center_lon": 11.137109,
+        "row": 23,
+        "col": 23
+    },
+    {
+        "terrain_id": "T287",
+        "mean_ndvi": 0.1051,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.697725,
+        "center_lon": 11.144092,
+        "row": 23,
+        "col": 24
+    },
+    {
+        "terrain_id": "T288",
+        "mean_ndvi": 0.1037,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.697602,
+        "center_lon": 11.151075,
+        "row": 23,
+        "col": 25
+    },
+    {
+        "terrain_id": "T289",
+        "mean_ndvi": 0.1054,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.697478,
+        "center_lon": 11.158058,
+        "row": 23,
+        "col": 26
+    },
+    {
+        "terrain_id": "T290",
+        "mean_ndvi": 0.1082,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.697354,
+        "center_lon": 11.165041,
+        "row": 23,
+        "col": 27
+    },
+    {
+        "terrain_id": "T291",
+        "mean_ndvi": 0.1051,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.69723,
+        "center_lon": 11.172024,
+        "row": 23,
+        "col": 28
+    },
+    {
+        "terrain_id": "T292",
+        "mean_ndvi": 0.1091,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.697105,
+        "center_lon": 11.179007,
+        "row": 23,
+        "col": 29
+    },
+    {
+        "terrain_id": "T293",
+        "mean_ndvi": 0.1078,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.69698,
+        "center_lon": 11.18599,
+        "row": 23,
+        "col": 30
+    },
+    {
+        "terrain_id": "T294",
+        "mean_ndvi": 0.1128,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.696855,
+        "center_lon": 11.192973,
+        "row": 23,
+        "col": 31
+    },
+    {
+        "terrain_id": "T295",
+        "mean_ndvi": 0.1107,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.69208,
+        "center_lon": 11.136961,
+        "row": 24,
+        "col": 23
+    },
+    {
+        "terrain_id": "T296",
+        "mean_ndvi": 0.1025,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.691957,
+        "center_lon": 11.143943,
+        "row": 24,
+        "col": 24
+    },
+    {
+        "terrain_id": "T297",
+        "mean_ndvi": 0.1036,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.691834,
+        "center_lon": 11.150926,
+        "row": 24,
+        "col": 25
+    },
+    {
+        "terrain_id": "T298",
+        "mean_ndvi": 0.1068,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.691711,
+        "center_lon": 11.157909,
+        "row": 24,
+        "col": 26
+    },
+    {
+        "terrain_id": "T299",
+        "mean_ndvi": 0.1047,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.691587,
+        "center_lon": 11.164891,
+        "row": 24,
+        "col": 27
+    },
+    {
+        "terrain_id": "T300",
+        "mean_ndvi": 0.1079,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.691463,
+        "center_lon": 11.171873,
+        "row": 24,
+        "col": 28
+    },
+    {
+        "terrain_id": "T301",
+        "mean_ndvi": 0.1021,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.691338,
+        "center_lon": 11.178856,
+        "row": 24,
+        "col": 29
+    },
+    {
+        "terrain_id": "T302",
+        "mean_ndvi": 0.0992,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.686313,
+        "center_lon": 11.136813,
+        "row": 25,
+        "col": 23
+    },
+    {
+        "terrain_id": "T303",
+        "mean_ndvi": 0.0982,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.68619,
+        "center_lon": 11.143795,
+        "row": 25,
+        "col": 24
+    },
+    {
+        "terrain_id": "T304",
+        "mean_ndvi": 0.1027,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.686067,
+        "center_lon": 11.150777,
+        "row": 25,
+        "col": 25
+    },
+    {
+        "terrain_id": "T305",
+        "mean_ndvi": 0.1069,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.685943,
+        "center_lon": 11.157759,
+        "row": 25,
+        "col": 26
+    },
+    {
+        "terrain_id": "T306",
+        "mean_ndvi": 0.1082,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.68582,
+        "center_lon": 11.164741,
+        "row": 25,
+        "col": 27
+    },
+    {
+        "terrain_id": "T307",
+        "mean_ndvi": 0.1222,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.685695,
+        "center_lon": 11.171723,
+        "row": 25,
+        "col": 28
+    },
+    {
+        "terrain_id": "T308",
+        "mean_ndvi": 0.0884,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.680789,
+        "center_lon": 11.122701,
+        "row": 26,
+        "col": 21
+    },
+    {
+        "terrain_id": "T309",
+        "mean_ndvi": 0.0991,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.680667,
+        "center_lon": 11.129683,
+        "row": 26,
+        "col": 22
+    },
+    {
+        "terrain_id": "T310",
+        "mean_ndvi": 0.0974,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.680545,
+        "center_lon": 11.136664,
+        "row": 26,
+        "col": 23
+    },
+    {
+        "terrain_id": "T311",
+        "mean_ndvi": 0.0982,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.680422,
+        "center_lon": 11.143646,
+        "row": 26,
+        "col": 24
+    },
+    {
+        "terrain_id": "T312",
+        "mean_ndvi": 0.104,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.680299,
+        "center_lon": 11.150628,
+        "row": 26,
+        "col": 25
+    },
+    {
+        "terrain_id": "T313",
+        "mean_ndvi": 0.1018,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.680176,
+        "center_lon": 11.157609,
+        "row": 26,
+        "col": 26
+    },
+    {
+        "terrain_id": "T314",
+        "mean_ndvi": 0.1079,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.675022,
+        "center_lon": 11.122554,
+        "row": 27,
+        "col": 21
+    },
+    {
+        "terrain_id": "T315",
+        "mean_ndvi": 0.1013,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.6749,
+        "center_lon": 11.129535,
+        "row": 27,
+        "col": 22
+    },
+    {
+        "terrain_id": "T316",
+        "mean_ndvi": 0.1055,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.674778,
+        "center_lon": 11.136516,
+        "row": 27,
+        "col": 23
+    },
+    {
+        "terrain_id": "T317",
+        "mean_ndvi": 0.102,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.674655,
+        "center_lon": 11.143497,
+        "row": 27,
+        "col": 24
+    },
+    {
+        "terrain_id": "T318",
+        "mean_ndvi": 0.1118,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.674532,
+        "center_lon": 11.150478,
+        "row": 27,
+        "col": 25
+    },
+    {
+        "terrain_id": "T319",
+        "mean_ndvi": 0.1043,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.671492,
+        "center_lon": 10.989764,
+        "row": 28,
+        "col": 2
+    },
+    {
+        "terrain_id": "T320",
+        "mean_ndvi": 0.1191,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.671378,
+        "center_lon": 10.996746,
+        "row": 28,
+        "col": 3
+    },
+    {
+        "terrain_id": "T321",
+        "mean_ndvi": 0.1282,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.671263,
+        "center_lon": 11.003727,
+        "row": 28,
+        "col": 4
+    },
+    {
+        "terrain_id": "T322",
+        "mean_ndvi": 0.105,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.671148,
+        "center_lon": 11.010709,
+        "row": 28,
+        "col": 5
+    },
+    {
+        "terrain_id": "T323",
+        "mean_ndvi": 0.0964,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.671033,
+        "center_lon": 11.01769,
+        "row": 28,
+        "col": 6
+    },
+    {
+        "terrain_id": "T324",
+        "mean_ndvi": 0.0929,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.670917,
+        "center_lon": 11.024672,
+        "row": 28,
+        "col": 7
+    },
+    {
+        "terrain_id": "T325",
+        "mean_ndvi": 0.0909,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.670801,
+        "center_lon": 11.031653,
+        "row": 28,
+        "col": 8
+    },
+    {
+        "terrain_id": "T326",
+        "mean_ndvi": 0.0857,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.670684,
+        "center_lon": 11.038634,
+        "row": 28,
+        "col": 9
+    },
+    {
+        "terrain_id": "T327",
+        "mean_ndvi": 0.0915,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.670567,
+        "center_lon": 11.045616,
+        "row": 28,
+        "col": 10
+    },
+    {
+        "terrain_id": "T328",
+        "mean_ndvi": 0.1097,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.67045,
+        "center_lon": 11.052597,
+        "row": 28,
+        "col": 11
+    },
+    {
+        "terrain_id": "T329",
+        "mean_ndvi": 0.0921,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.670332,
+        "center_lon": 11.059578,
+        "row": 28,
+        "col": 12
+    },
+    {
+        "terrain_id": "T330",
+        "mean_ndvi": 0.0955,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.670214,
+        "center_lon": 11.066559,
+        "row": 28,
+        "col": 13
+    },
+    {
+        "terrain_id": "T331",
+        "mean_ndvi": 0.0948,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.670096,
+        "center_lon": 11.07354,
+        "row": 28,
+        "col": 14
+    },
+    {
+        "terrain_id": "T332",
+        "mean_ndvi": 0.0989,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.669977,
+        "center_lon": 11.080521,
+        "row": 28,
+        "col": 15
+    },
+    {
+        "terrain_id": "T333",
+        "mean_ndvi": 0.0986,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.669857,
+        "center_lon": 11.087502,
+        "row": 28,
+        "col": 16
+    },
+    {
+        "terrain_id": "T334",
+        "mean_ndvi": 0.0986,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.669737,
+        "center_lon": 11.094483,
+        "row": 28,
+        "col": 17
+    },
+    {
+        "terrain_id": "T335",
+        "mean_ndvi": 0.1293,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.669617,
+        "center_lon": 11.101464,
+        "row": 28,
+        "col": 18
+    },
+    {
+        "terrain_id": "T336",
+        "mean_ndvi": 0.1395,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.669497,
+        "center_lon": 11.108445,
+        "row": 28,
+        "col": 19
+    },
+    {
+        "terrain_id": "T337",
+        "mean_ndvi": 0.109,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.669254,
+        "center_lon": 11.122407,
+        "row": 28,
+        "col": 21
+    },
+    {
+        "terrain_id": "T338",
+        "mean_ndvi": 0.1023,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.669132,
+        "center_lon": 11.129387,
+        "row": 28,
+        "col": 22
+    },
+    {
+        "terrain_id": "T339",
+        "mean_ndvi": 0.1023,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.66901,
+        "center_lon": 11.136368,
+        "row": 28,
+        "col": 23
+    },
+    {
+        "terrain_id": "T340",
+        "mean_ndvi": 0.0987,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.665838,
+        "center_lon": 10.982645,
+        "row": 29,
+        "col": 1
+    },
+    {
+        "terrain_id": "T341",
+        "mean_ndvi": 0.1099,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.665724,
+        "center_lon": 10.989627,
+        "row": 29,
+        "col": 2
+    },
+    {
+        "terrain_id": "T342",
+        "mean_ndvi": 0.1366,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.66561,
+        "center_lon": 10.996608,
+        "row": 29,
+        "col": 3
+    },
+    {
+        "terrain_id": "T343",
+        "mean_ndvi": 0.1379,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.665496,
+        "center_lon": 11.003589,
+        "row": 29,
+        "col": 4
+    },
+    {
+        "terrain_id": "T344",
+        "mean_ndvi": 0.1147,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.665381,
+        "center_lon": 11.01057,
+        "row": 29,
+        "col": 5
+    },
+    {
+        "terrain_id": "T345",
+        "mean_ndvi": 0.097,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.665265,
+        "center_lon": 11.01755,
+        "row": 29,
+        "col": 6
+    },
+    {
+        "terrain_id": "T346",
+        "mean_ndvi": 0.0939,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.665149,
+        "center_lon": 11.024531,
+        "row": 29,
+        "col": 7
+    },
+    {
+        "terrain_id": "T347",
+        "mean_ndvi": 0.0866,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.665033,
+        "center_lon": 11.031512,
+        "row": 29,
+        "col": 8
+    },
+    {
+        "terrain_id": "T348",
+        "mean_ndvi": 0.0845,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.664917,
+        "center_lon": 11.038493,
+        "row": 29,
+        "col": 9
+    },
+    {
+        "terrain_id": "T349",
+        "mean_ndvi": 0.0762,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.6648,
+        "center_lon": 11.045474,
+        "row": 29,
+        "col": 10
+    },
+    {
+        "terrain_id": "T350",
+        "mean_ndvi": 0.0768,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.664682,
+        "center_lon": 11.052454,
+        "row": 29,
+        "col": 11
+    },
+    {
+        "terrain_id": "T351",
+        "mean_ndvi": 0.0799,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.664565,
+        "center_lon": 11.059435,
+        "row": 29,
+        "col": 12
+    },
+    {
+        "terrain_id": "T352",
+        "mean_ndvi": 0.0897,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.664446,
+        "center_lon": 11.066416,
+        "row": 29,
+        "col": 13
+    },
+    {
+        "terrain_id": "T353",
+        "mean_ndvi": 0.0944,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.664328,
+        "center_lon": 11.073396,
+        "row": 29,
+        "col": 14
+    },
+    {
+        "terrain_id": "T354",
+        "mean_ndvi": 0.1084,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.664209,
+        "center_lon": 11.080377,
+        "row": 29,
+        "col": 15
+    },
+    {
+        "terrain_id": "T355",
+        "mean_ndvi": 0.1178,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.664089,
+        "center_lon": 11.087357,
+        "row": 29,
+        "col": 16
+    },
+    {
+        "terrain_id": "T356",
+        "mean_ndvi": 0.1,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.66397,
+        "center_lon": 11.094338,
+        "row": 29,
+        "col": 17
+    },
+    {
+        "terrain_id": "T357",
+        "mean_ndvi": 0.0943,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.66385,
+        "center_lon": 11.101318,
+        "row": 29,
+        "col": 18
+    },
+    {
+        "terrain_id": "T358",
+        "mean_ndvi": 0.0925,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.663729,
+        "center_lon": 11.108299,
+        "row": 29,
+        "col": 19
+    },
+    {
+        "terrain_id": "T359",
+        "mean_ndvi": 0.0961,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.663608,
+        "center_lon": 11.115279,
+        "row": 29,
+        "col": 20
+    },
+    {
+        "terrain_id": "T360",
+        "mean_ndvi": 0.0907,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.663487,
+        "center_lon": 11.122259,
+        "row": 29,
+        "col": 21
+    },
+    {
+        "terrain_id": "T361",
+        "mean_ndvi": 0.0973,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.663365,
+        "center_lon": 11.12924,
+        "row": 29,
+        "col": 22
+    },
+    {
+        "terrain_id": "T362",
+        "mean_ndvi": 0.1015,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.66007,
+        "center_lon": 10.982508,
+        "row": 30,
+        "col": 1
+    },
+    {
+        "terrain_id": "T363",
+        "mean_ndvi": 0.0931,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.659956,
+        "center_lon": 10.989489,
+        "row": 30,
+        "col": 2
+    },
+    {
+        "terrain_id": "T364",
+        "mean_ndvi": 0.119,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.659842,
+        "center_lon": 10.996469,
+        "row": 30,
+        "col": 3
+    },
+    {
+        "terrain_id": "T365",
+        "mean_ndvi": 0.1225,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.659728,
+        "center_lon": 11.00345,
+        "row": 30,
+        "col": 4
+    },
+    {
+        "terrain_id": "T366",
+        "mean_ndvi": 0.1112,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.659613,
+        "center_lon": 11.01043,
+        "row": 30,
+        "col": 5
+    },
+    {
+        "terrain_id": "T367",
+        "mean_ndvi": 0.1041,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.659497,
+        "center_lon": 11.017411,
+        "row": 30,
+        "col": 6
+    },
+    {
+        "terrain_id": "T368",
+        "mean_ndvi": 0.0919,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.659382,
+        "center_lon": 11.024391,
+        "row": 30,
+        "col": 7
+    },
+    {
+        "terrain_id": "T369",
+        "mean_ndvi": 0.0965,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.659265,
+        "center_lon": 11.031371,
+        "row": 30,
+        "col": 8
+    },
+    {
+        "terrain_id": "T370",
+        "mean_ndvi": 0.0886,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.659149,
+        "center_lon": 11.038352,
+        "row": 30,
+        "col": 9
+    },
+    {
+        "terrain_id": "T371",
+        "mean_ndvi": 0.0779,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.659032,
+        "center_lon": 11.045332,
+        "row": 30,
+        "col": 10
+    },
+    {
+        "terrain_id": "T372",
+        "mean_ndvi": 0.0742,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.658915,
+        "center_lon": 11.052312,
+        "row": 30,
+        "col": 11
+    },
+    {
+        "terrain_id": "T373",
+        "mean_ndvi": 0.0783,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.658797,
+        "center_lon": 11.059292,
+        "row": 30,
+        "col": 12
+    },
+    {
+        "terrain_id": "T374",
+        "mean_ndvi": 0.0777,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.658679,
+        "center_lon": 11.066273,
+        "row": 30,
+        "col": 13
+    },
+    {
+        "terrain_id": "T375",
+        "mean_ndvi": 0.0941,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.65856,
+        "center_lon": 11.073253,
+        "row": 30,
+        "col": 14
+    },
+    {
+        "terrain_id": "T376",
+        "mean_ndvi": 0.0984,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.658441,
+        "center_lon": 11.080233,
+        "row": 30,
+        "col": 15
+    },
+    {
+        "terrain_id": "T377",
+        "mean_ndvi": 0.1054,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.658322,
+        "center_lon": 11.087213,
+        "row": 30,
+        "col": 16
+    },
+    {
+        "terrain_id": "T378",
+        "mean_ndvi": 0.1049,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.658202,
+        "center_lon": 11.094193,
+        "row": 30,
+        "col": 17
+    },
+    {
+        "terrain_id": "T379",
+        "mean_ndvi": 0.0961,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.658082,
+        "center_lon": 11.101173,
+        "row": 30,
+        "col": 18
+    },
+    {
+        "terrain_id": "T380",
+        "mean_ndvi": 0.0917,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.657961,
+        "center_lon": 11.108153,
+        "row": 30,
+        "col": 19
+    },
+    {
+        "terrain_id": "T381",
+        "mean_ndvi": 0.0926,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.657841,
+        "center_lon": 11.115132,
+        "row": 30,
+        "col": 20
+    },
+    {
+        "terrain_id": "T382",
+        "mean_ndvi": 0.0955,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.657719,
+        "center_lon": 11.122112,
+        "row": 30,
+        "col": 21
+    },
+    {
+        "terrain_id": "T383",
+        "mean_ndvi": 0.1114,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.654415,
+        "center_lon": 10.97539,
+        "row": 31,
+        "col": 0
+    },
+    {
+        "terrain_id": "T384",
+        "mean_ndvi": 0.1051,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.654302,
+        "center_lon": 10.982371,
+        "row": 31,
+        "col": 1
+    },
+    {
+        "terrain_id": "T385",
+        "mean_ndvi": 0.1013,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.654188,
+        "center_lon": 10.989351,
+        "row": 31,
+        "col": 2
+    },
+    {
+        "terrain_id": "T386",
+        "mean_ndvi": 0.1078,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.654074,
+        "center_lon": 10.996331,
+        "row": 31,
+        "col": 3
+    },
+    {
+        "terrain_id": "T387",
+        "mean_ndvi": 0.1149,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.65396,
+        "center_lon": 11.003311,
+        "row": 31,
+        "col": 4
+    },
+    {
+        "terrain_id": "T388",
+        "mean_ndvi": 0.1011,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.653845,
+        "center_lon": 11.010291,
+        "row": 31,
+        "col": 5
+    },
+    {
+        "terrain_id": "T389",
+        "mean_ndvi": 0.0998,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.653729,
+        "center_lon": 11.017271,
+        "row": 31,
+        "col": 6
+    },
+    {
+        "terrain_id": "T390",
+        "mean_ndvi": 0.0988,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.653614,
+        "center_lon": 11.024251,
+        "row": 31,
+        "col": 7
+    },
+    {
+        "terrain_id": "T391",
+        "mean_ndvi": 0.086,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.653498,
+        "center_lon": 11.031231,
+        "row": 31,
+        "col": 8
+    },
+    {
+        "terrain_id": "T392",
+        "mean_ndvi": 0.0957,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.653381,
+        "center_lon": 11.03821,
+        "row": 31,
+        "col": 9
+    },
+    {
+        "terrain_id": "T393",
+        "mean_ndvi": 0.0821,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.653264,
+        "center_lon": 11.04519,
+        "row": 31,
+        "col": 10
+    },
+    {
+        "terrain_id": "T394",
+        "mean_ndvi": 0.0768,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.653147,
+        "center_lon": 11.05217,
+        "row": 31,
+        "col": 11
+    },
+    {
+        "terrain_id": "T395",
+        "mean_ndvi": 0.0818,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.653029,
+        "center_lon": 11.05915,
+        "row": 31,
+        "col": 12
+    },
+    {
+        "terrain_id": "T396",
+        "mean_ndvi": 0.0814,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.652911,
+        "center_lon": 11.066129,
+        "row": 31,
+        "col": 13
+    },
+    {
+        "terrain_id": "T397",
+        "mean_ndvi": 0.0845,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.652792,
+        "center_lon": 11.073109,
+        "row": 31,
+        "col": 14
+    },
+    {
+        "terrain_id": "T398",
+        "mean_ndvi": 0.0991,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.652674,
+        "center_lon": 11.080089,
+        "row": 31,
+        "col": 15
+    },
+    {
+        "terrain_id": "T399",
+        "mean_ndvi": 0.106,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.652554,
+        "center_lon": 11.087068,
+        "row": 31,
+        "col": 16
+    },
+    {
+        "terrain_id": "T400",
+        "mean_ndvi": 0.0977,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.652434,
+        "center_lon": 11.094048,
+        "row": 31,
+        "col": 17
+    },
+    {
+        "terrain_id": "T401",
+        "mean_ndvi": 0.0943,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.652314,
+        "center_lon": 11.101027,
+        "row": 31,
+        "col": 18
+    },
+    {
+        "terrain_id": "T402",
+        "mean_ndvi": 0.1007,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.648534,
+        "center_lon": 10.982233,
+        "row": 32,
+        "col": 1
+    },
+    {
+        "terrain_id": "T403",
+        "mean_ndvi": 0.0969,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.64842,
+        "center_lon": 10.989213,
+        "row": 32,
+        "col": 2
+    },
+    {
+        "terrain_id": "T404",
+        "mean_ndvi": 0.0959,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.648306,
+        "center_lon": 10.996192,
+        "row": 32,
+        "col": 3
+    },
+    {
+        "terrain_id": "T405",
+        "mean_ndvi": 0.1136,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.648192,
+        "center_lon": 11.003172,
+        "row": 32,
+        "col": 4
+    },
+    {
+        "terrain_id": "T406",
+        "mean_ndvi": 0.1099,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.648077,
+        "center_lon": 11.010152,
+        "row": 32,
+        "col": 5
+    },
+    {
+        "terrain_id": "T407",
+        "mean_ndvi": 0.1035,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.647961,
+        "center_lon": 11.017131,
+        "row": 32,
+        "col": 6
+    },
+    {
+        "terrain_id": "T408",
+        "mean_ndvi": 0.0992,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.647846,
+        "center_lon": 11.02411,
+        "row": 32,
+        "col": 7
+    },
+    {
+        "terrain_id": "T409",
+        "mean_ndvi": 0.1,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.64773,
+        "center_lon": 11.03109,
+        "row": 32,
+        "col": 8
+    },
+    {
+        "terrain_id": "T410",
+        "mean_ndvi": 0.1031,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.647613,
+        "center_lon": 11.038069,
+        "row": 32,
+        "col": 9
+    },
+    {
+        "terrain_id": "T411",
+        "mean_ndvi": 0.0896,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.647496,
+        "center_lon": 11.045048,
+        "row": 32,
+        "col": 10
+    },
+    {
+        "terrain_id": "T412",
+        "mean_ndvi": 0.0803,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.647379,
+        "center_lon": 11.052028,
+        "row": 32,
+        "col": 11
+    },
+    {
+        "terrain_id": "T413",
+        "mean_ndvi": 0.0848,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.647261,
+        "center_lon": 11.059007,
+        "row": 32,
+        "col": 12
+    },
+    {
+        "terrain_id": "T414",
+        "mean_ndvi": 0.0858,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.647143,
+        "center_lon": 11.065986,
+        "row": 32,
+        "col": 13
+    },
+    {
+        "terrain_id": "T415",
+        "mean_ndvi": 0.0864,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.647025,
+        "center_lon": 11.072965,
+        "row": 32,
+        "col": 14
+    },
+    {
+        "terrain_id": "T416",
+        "mean_ndvi": 0.0897,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.646906,
+        "center_lon": 11.079944,
+        "row": 32,
+        "col": 15
+    },
+    {
+        "terrain_id": "T417",
+        "mean_ndvi": 0.1049,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.646787,
+        "center_lon": 11.086923,
+        "row": 32,
+        "col": 16
+    },
+    {
+        "terrain_id": "T418",
+        "mean_ndvi": 0.0916,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.646667,
+        "center_lon": 11.093903,
+        "row": 32,
+        "col": 17
+    },
+    {
+        "terrain_id": "T419",
+        "mean_ndvi": 0.1015,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.642652,
+        "center_lon": 10.989075,
+        "row": 33,
+        "col": 2
+    },
+    {
+        "terrain_id": "T420",
+        "mean_ndvi": 0.0896,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.642538,
+        "center_lon": 10.996054,
+        "row": 33,
+        "col": 3
+    },
+    {
+        "terrain_id": "T421",
+        "mean_ndvi": 0.0933,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.642424,
+        "center_lon": 11.003033,
+        "row": 33,
+        "col": 4
+    },
+    {
+        "terrain_id": "T422",
+        "mean_ndvi": 0.0998,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.642309,
+        "center_lon": 11.010012,
+        "row": 33,
+        "col": 5
+    },
+    {
+        "terrain_id": "T423",
+        "mean_ndvi": 0.1037,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.642194,
+        "center_lon": 11.016991,
+        "row": 33,
+        "col": 6
+    },
+    {
+        "terrain_id": "T424",
+        "mean_ndvi": 0.0979,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.642078,
+        "center_lon": 11.02397,
+        "row": 33,
+        "col": 7
+    },
+    {
+        "terrain_id": "T425",
+        "mean_ndvi": 0.0913,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.641962,
+        "center_lon": 11.030949,
+        "row": 33,
+        "col": 8
+    },
+    {
+        "terrain_id": "T426",
+        "mean_ndvi": 0.0881,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.641845,
+        "center_lon": 11.037928,
+        "row": 33,
+        "col": 9
+    },
+    {
+        "terrain_id": "T427",
+        "mean_ndvi": 0.0868,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.641728,
+        "center_lon": 11.044907,
+        "row": 33,
+        "col": 10
+    },
+    {
+        "terrain_id": "T428",
+        "mean_ndvi": 0.0859,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.641611,
+        "center_lon": 11.051886,
+        "row": 33,
+        "col": 11
+    },
+    {
+        "terrain_id": "T429",
+        "mean_ndvi": 0.0878,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.641494,
+        "center_lon": 11.058864,
+        "row": 33,
+        "col": 12
+    },
+    {
+        "terrain_id": "T430",
+        "mean_ndvi": 0.0954,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.641375,
+        "center_lon": 11.065843,
+        "row": 33,
+        "col": 13
+    },
+    {
+        "terrain_id": "T431",
+        "mean_ndvi": 0.0961,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.641257,
+        "center_lon": 11.072822,
+        "row": 33,
+        "col": 14
+    },
+    {
+        "terrain_id": "T432",
+        "mean_ndvi": 0.0918,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.641138,
+        "center_lon": 11.0798,
+        "row": 33,
+        "col": 15
+    },
+    {
+        "terrain_id": "T433",
+        "mean_ndvi": 0.091,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.636656,
+        "center_lon": 11.002894,
+        "row": 34,
+        "col": 4
+    },
+    {
+        "terrain_id": "T434",
+        "mean_ndvi": 0.0873,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.636541,
+        "center_lon": 11.009873,
+        "row": 34,
+        "col": 5
+    },
+    {
+        "terrain_id": "T435",
+        "mean_ndvi": 0.0982,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.636426,
+        "center_lon": 11.016852,
+        "row": 34,
+        "col": 6
+    },
+    {
+        "terrain_id": "T436",
+        "mean_ndvi": 0.1,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.63631,
+        "center_lon": 11.02383,
+        "row": 34,
+        "col": 7
+    },
+    {
+        "terrain_id": "T437",
+        "mean_ndvi": 0.0958,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.636194,
+        "center_lon": 11.030808,
+        "row": 34,
+        "col": 8
+    },
+    {
+        "terrain_id": "T438",
+        "mean_ndvi": 0.1003,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.636077,
+        "center_lon": 11.037787,
+        "row": 34,
+        "col": 9
+    },
+    {
+        "terrain_id": "T439",
+        "mean_ndvi": 0.0893,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.635961,
+        "center_lon": 11.044765,
+        "row": 34,
+        "col": 10
+    },
+    {
+        "terrain_id": "T440",
+        "mean_ndvi": 0.0953,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.635843,
+        "center_lon": 11.051743,
+        "row": 34,
+        "col": 11
+    },
+    {
+        "terrain_id": "T441",
+        "mean_ndvi": 0.0983,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.635726,
+        "center_lon": 11.058722,
+        "row": 34,
+        "col": 12
+    },
+    {
+        "terrain_id": "T442",
+        "mean_ndvi": 0.1005,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.635608,
+        "center_lon": 11.0657,
+        "row": 34,
+        "col": 13
+    },
+    {
+        "terrain_id": "T443",
+        "mean_ndvi": 0.0982,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.635489,
+        "center_lon": 11.072678,
+        "row": 34,
+        "col": 14
+    },
+    {
+        "terrain_id": "T444",
+        "mean_ndvi": 0.082,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.630658,
+        "center_lon": 11.016712,
+        "row": 35,
+        "col": 6
+    },
+    {
+        "terrain_id": "T445",
+        "mean_ndvi": 0.0988,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.630542,
+        "center_lon": 11.02369,
+        "row": 35,
+        "col": 7
+    },
+    {
+        "terrain_id": "T446",
+        "mean_ndvi": 0.0997,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.630426,
+        "center_lon": 11.030668,
+        "row": 35,
+        "col": 8
+    },
+    {
+        "terrain_id": "T447",
+        "mean_ndvi": 0.1051,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.63031,
+        "center_lon": 11.037646,
+        "row": 35,
+        "col": 9
+    },
+    {
+        "terrain_id": "T448",
+        "mean_ndvi": 0.0969,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.630193,
+        "center_lon": 11.044624,
+        "row": 35,
+        "col": 10
+    },
+    {
+        "terrain_id": "T449",
+        "mean_ndvi": 0.0972,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.630076,
+        "center_lon": 11.051601,
+        "row": 35,
+        "col": 11
+    },
+    {
+        "terrain_id": "T450",
+        "mean_ndvi": 0.0911,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.629958,
+        "center_lon": 11.058579,
+        "row": 35,
+        "col": 12
+    },
+    {
+        "terrain_id": "T451",
+        "mean_ndvi": 0.0946,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.62984,
+        "center_lon": 11.065557,
+        "row": 35,
+        "col": 13
+    },
+    {
+        "terrain_id": "T452",
+        "mean_ndvi": 0.0881,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.624658,
+        "center_lon": 11.030527,
+        "row": 36,
+        "col": 8
+    },
+    {
+        "terrain_id": "T453",
+        "mean_ndvi": 0.0878,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.624542,
+        "center_lon": 11.037505,
+        "row": 36,
+        "col": 9
+    },
+    {
+        "terrain_id": "T454",
+        "mean_ndvi": 0.0883,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.624425,
+        "center_lon": 11.044482,
+        "row": 36,
+        "col": 10
+    },
+    {
+        "terrain_id": "T455",
+        "mean_ndvi": 0.0948,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.624308,
+        "center_lon": 11.051459,
+        "row": 36,
+        "col": 11
+    },
+    {
+        "terrain_id": "T456",
+        "mean_ndvi": 0.1329,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.62419,
+        "center_lon": 11.058437,
+        "row": 36,
+        "col": 12
+    },
+    {
+        "terrain_id": "T457",
+        "mean_ndvi": 0.0991,
+        "status": "Not Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.618774,
+        "center_lon": 11.037364,
+        "row": 37,
+        "col": 9
+    },
+    {
+        "terrain_id": "T458",
+        "mean_ndvi": 0.1072,
+        "status": "Suitable",
+        "date": "2025-07-26",
+        "center_lat": 34.618657,
+        "center_lon": 11.044341,
+        "row": 37,
+        "col": 10
+    }
+]
